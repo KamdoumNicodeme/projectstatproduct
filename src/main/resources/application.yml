@@ -1,0 +1,9 @@
+spring:
+  info:
+    git:
+      mode: full
+  application:
+    name: Product Admin App
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/productAdmin
